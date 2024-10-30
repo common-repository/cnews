@@ -1,0 +1,19 @@
+{
+  "name": "casperschultz/cnews",
+  "description": "Plugin for WordPress that adds the possibility to send notifications from the add/edit content pages.",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://casperschultz.dk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Casper Schultz",
+      "email": "casper@casperschultz.dk",
+      "homepage": "https://casperschultz.dk"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.0.6"
+  }
+}

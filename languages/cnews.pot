@@ -1,0 +1,176 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CNews\n"
+"POT-Creation-Date: 2016-08-28 23:57+0200\n"
+"PO-Revision-Date: 2016-08-28 23:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: cnews.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: controller/class-cnews-ctrl.php:104
+msgid ""
+"You have composed an email, but you have have not confirmed that it is to be "
+"sent."
+msgstr ""
+
+#: controller/class-cnews-ctrl.php:111
+msgid "You have to add a subject."
+msgstr ""
+
+#: controller/class-cnews-ctrl.php:117
+msgid "The subject must be between 5 and 78 characters long."
+msgstr ""
+
+#: controller/class-cnews-ctrl.php:123
+msgid "You have to type a message in order to send emails."
+msgstr ""
+
+#: controller/class-cnews-ctrl.php:129
+msgid ""
+"Your emails has NOT been sent out because you did not select any user groups "
+"to send to."
+msgstr ""
+
+#: controller/class-cnews-ctrl.php:151
+msgid "Your emails are being sent out now."
+msgstr ""
+
+#: controller/class-cnews-ctrl.php:162
+msgid "Your email could not be sent because of the following error"
+msgstr ""
+
+#: controller/class-cnews-ctrl.php:252
+msgid "Send email notification"
+msgstr ""
+
+#: controller/class-cnews-ctrl.php:259
+msgid "Emails sent out"
+msgstr ""
+
+#: controller/class-settings-ctrl.php:139
+msgid "CNews posttype settings"
+msgstr ""
+
+#: controller/class-settings-ctrl.php:172
+msgid "CNews email settings"
+msgstr ""
+
+#: controller/class-settings-ctrl.php:193
+msgid "Leave empty to use the default email address"
+msgstr ""
+
+#: controller/class-settings-ctrl.php:202
+msgid "Leave empty to use the default name"
+msgstr ""
+
+#: controller/class-settings-ctrl.php:220
+msgid ""
+"Choose the post types that you would like to be able to send notifications "
+"from."
+msgstr ""
+
+#: controller/class-settings-ctrl.php:230
+msgid ""
+"Set name and email address that will be shown as From: when sending out "
+"emails."
+msgstr ""
+
+#: model/class-cnews-model.php:52
+msgid "You do not have access to perform this action."
+msgstr ""
+
+#: model/class-cnews-model.php:52
+msgid "Access denied"
+msgstr ""
+
+#: view/view-emails-sent-meta-box.php:16
+#: view/view-news-email-form-meta-box.php:19
+msgid "Subject"
+msgstr ""
+
+#: view/view-emails-sent-meta-box.php:24
+msgid "Email sent"
+msgstr ""
+
+#: view/view-emails-sent-meta-box.php:30
+#: view/view-news-email-form-meta-box.php:43
+msgid "Receivers"
+msgstr ""
+
+#: view/view-emails-sent-meta-box.php:46
+msgid "Email"
+msgstr ""
+
+#: view/view-emails-sent-meta-box.php:57
+msgid "No emails has been sent out."
+msgstr ""
+
+#: view/view-news-email-form-meta-box.php:13
+msgid "The mail has not been sent yet."
+msgstr ""
+
+#: view/view-news-email-form-meta-box.php:24
+msgid "Must be between 5 and 78 characters long."
+msgstr ""
+
+#: view/view-news-email-form-meta-box.php:28
+msgid "Message"
+msgstr ""
+
+#: view/view-news-email-form-meta-box.php:57
+msgid ""
+"All members in the selected groups that has enabled notifications will "
+"receive an email. If there are no members in the selected group(s) the mail "
+"will not be sent out."
+msgstr ""
+
+#: view/view-news-email-form-meta-box.php:61
+msgid "Confirm"
+msgstr ""
+
+#: view/view-news-email-form-meta-box.php:65
+msgid "Please confirm in order to send the emails."
+msgstr ""
+
+#: view/view-news-email-form-meta-box.php:67
+msgid "Send emails"
+msgstr ""
+
+#: view/view-user-profile-field.php:11 view/view-user-profile-field.php:14
+msgid "Receive notifications"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CNews"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/CasperSchultz/cnews"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Send out html emails to user groups from the add/edit post screens, and view "
+"emails sent out from that post on the same page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Casper Schultz"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://casperschultz.dk"
+msgstr ""
